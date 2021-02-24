@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading {
+   width: 100;
+   line-height: 50px;
+   background-color: #f5ba13;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-left: 50px;
+   color: white;
+   box-shadow: 5px 3px 15px -5px rgba(0, 0, 0, 0.5);
+}

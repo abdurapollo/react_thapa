@@ -1,0 +1,44 @@
+a.active_class {
+    color: cyan;
+    border-bottom: 1px solid red;
+  }
+
+.menu_style {
+    width : 100%;
+    line-height: 60px;
+    background-color: #20232a;
+    display: flex;
+    justify-content: space-around;
+}  
+
+.aboutStyle {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #C0DBCD;
+}
+
+.contactStyle {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #DBD9C0;
+}
+
+.setStyle2 {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #DBD9C0;
+  text-align: center;
+}
+
+@media (max-width : 768px){
+   
+}
